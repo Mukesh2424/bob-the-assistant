@@ -99,12 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Enjoy your experience with Bob! 😊**
-```
-
-### How to Use This
-1. Save the above content as a `README.md` file in your project directory.
-2. Push the file to your GitHub repository.
-3. It will automatically appear on the main page of your repository.
-
-Let me know if you'd like to customize this further!
+**Enjoy your experience with Bob! 😊
